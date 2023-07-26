@@ -50,7 +50,7 @@ Confusion is part of the programming
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,express,github,html,idea,java,js,spring,linux,mongodb,mysql,nodejs,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs,express,git,github,vscode,java,spring,eclipse,idea,mysql,postman,linux,discord&perline=14" />
   </a>
 </p>
 
