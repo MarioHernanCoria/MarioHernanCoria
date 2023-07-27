@@ -34,7 +34,7 @@ Confusion is part of the programming
 
 📝 I regularly write articles about Hashnode
 
-💬 Ask me about Java, Spring boot, OOP, Microservices, Mysql and soon Angular
+💬 Ask me about Java, Spring boot, OOP, Microservices, .NET, Mysql.
 
 📫 Feel free to contact me mariocoria022@gmail.com
 <!--Intro end-->      
@@ -50,7 +50,7 @@ Confusion is part of the programming
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs,express,git,github,vscode,java,spring,eclipse,idea,mysql,postman,linux,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs,express,git,github,vscode,visualstudio,java,spring,eclipse,idea,mysql,postman,cs,linux,dotnet,discord&perline=14" />
   </a>
 </p>
 
