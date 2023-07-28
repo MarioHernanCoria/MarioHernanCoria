@@ -32,7 +32,7 @@ Confusion is part of the programming
 
 ☁️ I have a strong interest in cloud computing. So, I'm learning AWS
 
-📝 programming is my hobby
+📝 Programming is my hobby
 
 💬 Ask me about Java, Spring boot, OOP, Microservices, .NET, Mysql.
 
