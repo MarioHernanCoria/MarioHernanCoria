@@ -36,8 +36,7 @@ Confusion is part of the programming
 
 💬 Ask me about Java, Spring boot, OOP, Microservices, .NET, Mysql.
 
-📫 Feel free to contact me mariocoria022@gmail.com
-<!--Intro end-->      
+📫 Feel free to contact me https://www.linkedin.com/in/mario-coria/
 <!--- stats (end) -->
 
 
