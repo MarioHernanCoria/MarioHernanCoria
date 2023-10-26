@@ -41,7 +41,7 @@ Confusion is part of programming.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,cs,dotnet,mongodb,nodejs,git,github,vscode,visualstudio,sqlserver,postman,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,cs,dotnet,mongodb,nodejs,git,github,vscode,visualstudio,sql,postman,discord&perline=14" />
   </a>
 </p>
 
