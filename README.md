@@ -17,18 +17,18 @@
 
 
 <!--Intro start-->
-Confusion is part of the programming
+Confusion is part of programming.
 🔭 I am currently studying Systems Engineering
 
-🌱 I am currently learning Linux, Docker, Kubernetes in IT Education
+🌱 I am currently learning Angular, Docker in IT education
 
-☁️ I have a strong interest in cloud computing. So, I'm learning AWS
+☁️ I have a great interest in cloud computing. So, I'm learning AZURE
 
 📝 Programming is my hobby
 
-💬 Ask me about Java, Spring boot, OOP, Microservices, .NET, Mysql.
+💬 Ask me about C#, OOP, SOLID, .NET, SQL Server, ASP .NET MVC, LinQ.
 
-📫 Feel free to contact me https://www.linkedin.com/in/mario-coria/
+📫 Don't hesitate to contact me https://www.linkedin.com/in/mario-coria/
 <!--- stats (end) -->
 
 
@@ -41,7 +41,7 @@ Confusion is part of the programming
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs,express,git,github,vscode,visualstudio,java,spring,eclipse,idea,mysql,postman,cs,linux,dotnet,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,cs,dotnet,mongodb,nodejs,git,github,vscode,visualstudio,sqlserver,postman,discord&perline=14" />
   </a>
 </p>
 
